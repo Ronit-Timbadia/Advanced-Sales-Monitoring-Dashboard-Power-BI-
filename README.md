@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard designed for business performance monitoring and sales analytics.
 
-## 🚀 Features
+##  Features
 
 - Sales KPI Monitoring
 - Profit Analysis
@@ -11,7 +11,7 @@ An interactive Power BI dashboard designed for business performance monitoring a
 - Time-Series Trends
 - Interactive Filters & Slicers
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Power BI
 - Data Visualization
@@ -19,7 +19,7 @@ An interactive Power BI dashboard designed for business performance monitoring a
 - DAX
 - Power Query
 
-## 📈 Key Metrics
+##  Key Metrics
 
 - Total Sales
 - Total Profit
@@ -27,11 +27,11 @@ An interactive Power BI dashboard designed for business performance monitoring a
 - Category Performance
 - Regional Sales Distribution
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 
 <img width="1302" height="731" alt="image" src="https://github.com/user-attachments/assets/dd2fa7f5-3e2c-464e-8369-9926b964f90a" />
 
 
-## 👨‍💻 Author
+##  Author
 
 Ronit Timbadia
